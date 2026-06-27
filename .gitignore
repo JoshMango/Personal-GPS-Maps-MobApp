@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradle
 .gradle/
 build/
@@ -33,3 +34,20 @@ output-metadata.json
 
 # Google Services
 google-services.json
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> 2ecd36b593617b3ad040b654e30a4677c5175695
