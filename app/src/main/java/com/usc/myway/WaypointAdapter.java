@@ -21,6 +21,9 @@ import androidx.annotation.Nullable;
 import java.io.IOException;
 import java.util.List;
 
+import ph.edu.gps_tracker.MainActivity;
+import ph.edu.gps_tracker.R;
+
 public class WaypointAdapter extends ArrayAdapter<Location> {
 
     private final App myApp;

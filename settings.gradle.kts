@@ -19,12 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
 rootProject.name = "GPS_Tracker"
 include(":app")
-include(":app")
-=======
-rootProject.name = "MyWay"
-include(":app")
- 
->>>>>>> 2ecd36b593617b3ad040b654e30a4677c5175695

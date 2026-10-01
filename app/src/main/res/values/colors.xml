@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
     <color name="card_background">#FFFFFF</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
@@ -20,9 +19,4 @@
     <color name="saved_address_color">#b2f2e9</color>
     <color name="divider_color">#e2eff0</color>
     <color name="collection_icon">#e1eded</color>
-    </resources>
-=======
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
 </resources>
->>>>>>> 2ecd36b593617b3ad040b654e30a4677c5175695
